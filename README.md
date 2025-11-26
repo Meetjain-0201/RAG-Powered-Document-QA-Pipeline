@@ -1,9 +1,3 @@
-Here is a **fully rewritten, beautified, non-plagiarized README** for your RAG + Qdrant + Gemini pipeline. It keeps all the meaning but presents everything in a fresh structure, tone, and layout.
-
-You can paste this directly into your GitHub README.md.
-
----
-
 # RAG Pipeline with Qdrant and Gemini
 
 A modular Retrieval Augmented Generation system built on top of **Qdrant**, **SentenceTransformers**, and **Google Gemini**. This project turns PDF collections into a searchable knowledge base and generates context-aware answers using modern LLMs.
