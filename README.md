@@ -82,11 +82,9 @@ This pipeline automates everything from document ingestion to answer generation.
 
 ## ⚙️ Installation
 
-Clone the project
-
 ```
-git clone https://github.com/AtharvaKulkarniIT/rag-qdrant-pipeline.git
-cd rag-qdrant-pipeline-main
+git clone https://github.com/Meetjain-0201/RAG-Powered-Document-QA-Pipeline.git  
+cd RAG-Powered-Document-QA-Pipeline
 ```
 
 Install Python dependencies
