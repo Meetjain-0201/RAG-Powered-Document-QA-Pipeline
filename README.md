@@ -154,6 +154,3 @@ Feel free to open an issue if you want to discuss ideas.
 
 Distributed under the MIT License.
 See the `LICENSE` file for full details.
-
-
-Just tell me your preference.
